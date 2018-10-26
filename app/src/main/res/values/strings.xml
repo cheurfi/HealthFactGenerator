@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HealthFactGenerator</string>
+    <string name="working_from_home">Physical Health</string>
+    <string name="out_of_office">Mental Health</string>
+</resources>
